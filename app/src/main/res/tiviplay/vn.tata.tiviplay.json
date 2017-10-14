@@ -16,7 +16,7 @@
       "startapp" : "206621146",
       "unity" : ""
     },
-    "numClick" : 8,
+    "numClick" : 4,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
@@ -34,7 +34,7 @@
   "App" : {
     "code" : -1,
     "force" : false,
-    "link" : "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/res/xml/22.apk"
+    "link" : "https://raw.githubusercontent.com/kunbmedia/example/dev/app/src/main/res/tiviplay/22.apk"
   },
   "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
   "enableApi" : true,
