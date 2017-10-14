@@ -4,9 +4,9 @@
     "forcepopup" : true,
     "ids" : {
       "admob" : {
-        "banner" : "ca-app-pub-3310732296129502/5664251878",
+        "banner" : "",
         "native" : "",
-        "popup" : "ca-app-pub-3310732296129502/8617718273"
+        "popup" : ""
       },
       "facebook" : {
         "banner" : "",
@@ -14,7 +14,7 @@
         "popup" : ""
       },
       "startapp" : "206621146",
-      "unity" : "1502445"
+      "unity" : ""
     },
     "numClick" : 8,
     "timeafterinstall" : 48,
