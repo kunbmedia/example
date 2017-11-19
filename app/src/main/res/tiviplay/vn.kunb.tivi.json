@@ -1,7 +1,6 @@
 {
   "Ads" : {
     "delay" : 5,
-    "deltaTime" : 1,
     "forcepopup" : true,
     "ids" : {
       "admob" : {
@@ -14,7 +13,7 @@
         "native" : "",
         "popup" : ""
       },
-      "startapp" : "206621146",
+      "startapp" : "106620000",
       "unity" : ""
     },
     "numClick" : 4,
@@ -23,7 +22,7 @@
     "types" : {
       "banner" : 2,
       "popup" : {
-        "changenet" : 2,
+        "changenet" : 0,
         "click" : 2,
         "closeapp" : 0,
         "lockscreen" : 0,
