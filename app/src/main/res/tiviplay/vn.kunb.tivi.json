@@ -20,10 +20,10 @@
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
-      "banner" : 3,
+      "banner" : 6,
       "popup" : {
         "changenet" : 0,
-        "click" : 3,
+        "click" : 6,
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : true,
@@ -32,7 +32,7 @@
     }
   },
   "App" : {
-    "code" : 3,
+    "code" : -1,
     "force" : false,
     "link" : "https://raw.githubusercontent.com/kunbmedia/example/dev/app/src/main/res/tiviplay/22.apk"
   },
