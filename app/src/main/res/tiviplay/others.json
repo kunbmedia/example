@@ -264,7 +264,7 @@
     },
     {
       "id": 3,
-      "name": "Ca nhạc",
+      "name": "Music",
       "avatar": "http://vetinhtv.com/tvstream_new/web/images/1100588548Am%20Nhac%20Icon.png",
       "group": [
         {
@@ -324,7 +324,7 @@
     },
     {
       "id": 4,
-      "name": "Phim",
+      "name": "Phim hay",
       "avatar": "https://s1.mzstatic.com/us/r30/Purple3/v4/44/f2/d7/44f2d7cc-9e38-0a08-fcdb-d5faffb11343/mzl.owrmvsca.png",
       "group": [
         {
@@ -499,7 +499,7 @@
     },
     {
       "id": 5,
-      "name": "Hài tổng hợp",
+      "name": "Phim Hài",
       "avatar": "http://ndl.mgccw.com/mu3/app/20141005/06/1412470389573/icon/icon_xl.png",
       "group": [
         {
