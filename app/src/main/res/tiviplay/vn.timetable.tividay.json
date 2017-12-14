@@ -26,7 +26,7 @@
         "click" : 6,
         "closeapp" : 0,
         "lockscreen" : 0,
-        "splash" : true,
+        "splash" : false,
         "openapp" : 0
       }
     }
