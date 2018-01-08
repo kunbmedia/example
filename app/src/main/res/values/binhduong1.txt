@@ -1,4 +1,4 @@
-"Lịch phát sóng kênh binhduong1 thứ năm:
+Lịch phát sóng kênh binhduong1 thứ năm:
  \n 
 00:00 Ca nhạc quốc tế
  \n 
@@ -112,4 +112,4 @@
 \n
 22:35 Phim tài liệu : Việt Nam - Cu Ba - Tập 1 : Lịch sử oai hùng
 \n
-23:10 Bản tin cuối ngày"
+23:10 Bản tin cuối ngày
