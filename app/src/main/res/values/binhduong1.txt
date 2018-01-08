@@ -1,7 +1,7 @@
 Lịch phát sóng kênh binhduong1 thứ năm:
-\n
+ \n 
 00:00 Ca nhạc quốc tế
-\n
+ \n 
 00:35 Hành tinh xanh : Bảo tồn hạt giống - Bảo tồn đa dạng sinh học - Phần 2
 \n
 01:00 Âm nhạc dân tộc : Sâu nặng ân tình
