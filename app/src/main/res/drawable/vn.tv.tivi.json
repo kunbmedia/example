@@ -16,7 +16,7 @@
       "startapp" : "210855162",
       "unity" : ""
     },
-    "numClick" : 4,
+    "numClick" : 3,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
@@ -27,7 +27,7 @@
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : false,
-        "openapp" : 3
+        "openapp" : 0
       }
     }
   },
@@ -44,5 +44,5 @@
   "linkTivi" : "http://tiviviet.crackgame.net/bdtvios/datanew2.php?v=9",
   "linkBongda" : "http://tiviviet.crackgame.net/bdtvios/tructiepvn.php",
   "linkHL" : "http://apps.crackgame.net/bongda/datavideo.php",
-  "timeAfterBuild" : 0
+  "timeAfterBuild" : 64
 }
