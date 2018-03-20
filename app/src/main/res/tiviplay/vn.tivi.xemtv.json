@@ -9,21 +9,21 @@
         "popup" : ""
       },
       "facebook" : {
-        "banner" : "2047982788817352_2047985925483705",
+        "banner" : "123",
         "native" : "123",
         "popup" : "1"
       },
-      "startapp" : "210855162",
+      "startapp" : "205016631",
       "unity" : ""
     },
     "numClick" : 4,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
-      "banner" : 3,
+      "banner" : 2,
       "popup" : {
-        "changenet" : 3,
-        "click" : 3,
+        "changenet" : 2,
+        "click" : 2,
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : false,
