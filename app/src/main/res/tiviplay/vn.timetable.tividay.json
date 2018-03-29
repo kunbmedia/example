@@ -20,7 +20,7 @@
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
-      "banner" : 2,
+      "banner" : 3,
       "popup" : {
         "changenet" : 3,
         "click" : 3,
