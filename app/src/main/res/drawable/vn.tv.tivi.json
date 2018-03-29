@@ -13,14 +13,14 @@
         "native" : "1773091219651105_1773093532984207",
         "popup" : "1773091219651105_1773093409650886"
       },
-      "startapp" : "210855162",
+      "startapp" : "202522987",
       "unity" : ""
     },
     "numClick" : 4,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
-      "banner" : 3,
+      "banner" : 2,
       "popup" : {
         "changenet" : 3,
         "click" : 3,
