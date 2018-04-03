@@ -100,7 +100,7 @@ Lịch phát sóng kênh vtv1 hôm nay:
 23:30 Thế giới 24h chuyển động
 
 23:50 Ký sự : Từ những miền quê : Chuyện về người bảo tồn chó xoáy Phú Quốc
-#############################################################################
+-----------------
 Ngày mai:
 00:00 Thời sự 0h
 
