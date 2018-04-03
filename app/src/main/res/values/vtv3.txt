@@ -1,79 +1,160 @@
 	Lịch phát sóng kênh vtv3 thứ sáu:
+	
+	00:00 Phim truyện: Đôi cánh tình yêu - Tập 47
 
-	00:00 Tiếp tục chương trình
+00:50 Khám phá thế giới: Thế giới hoang dã - Phần 9
 
-	00:20 Phim truyện: Đơn giản tôi là Maria - Tập 50
+01:20 Vì bạn xứng đáng
 
-	01:00 Khám phá thế giới: Vườn quốc gia nước Mỹ - Tập 25
+02:10 Chuyện đêm muộn: Sống thêm lần nữa
 
-	01:20 Vui - khỏe - có ích
+03:00 Phim truyện: Hạnh phúc bên nhau - Tập 7, 8
 
-	02:10 Chuyện đêm muộn: Tham vọng của nghệ sĩ
+04:30 Cuộc chiến mỹ vị
 
-	03:00 Phim truyện: Chuyện nàng Phù Dung - Tập 35, 36
+05:10 Văn hóa - Sự kiện và Nhân vật
 
-	04:30 Vua đầu bếp
+06:00 Nhịp đập 360 độ thể thao
 
-	05:10 Vì bạn xứng đáng
+06:45 S- Việt Nam
 
-	06:00 Nhịp đập 360 độ thể thao
+07:00 Cà phê sáng
 
-	06:45 S- Việt Nam
+08:00 Xả xì chét: Người chồng keo kiệt
 
-	07:00 Cà phê sáng
+08:10 Biển đảo quê hương: Phía sau biển cả
 
-	08:00 Xả xì chét: Rất trùng hợp
+08:20 Rubic 8
 
-	08:10 Trái tim cho em
+08:30 Khám phá thế giới: Thế giới hoang dã - Phần 9
 
-	08:20 VTV kết nối
+09:00 Phim truyện: Cuộc chiến gia tộc - Tập 350
 
-	08:30 Khám phá thế giới: Vườn quốc gia nước Mỹ - Tập 25
+09:20 Cuộc chiến mỹ vị
 
-	09:00 Phim truyện: Cuộc chiến gia tộc - Tập 261
+10:10 Chúng tôi là chiến sĩ
 
-	09:20 Ai là triệu phú
+11:00 Sắc màu phái đẹp: Tập 52
 
-	10:10 Vì bạn xứng đáng
+11:10 Thông tin 260
 
-	11:00 Thông tin 260
+11:20 Phụ nữ là số 1: Thề độc
 
-	11:10 Sắc màu phái đẹp: Tập 228
+11:30 Phim truyện: Cuộc chiến gia tộc - Tập 351
 
-	11:20 Phụ nữ là số 1: Tiếng hét của vợ
+12:00 Phim truyện: Bố là tất cả - Tập 52
 
-	11:30 Phim truyện: Cuộc chiến gia tộc - Tập 262
+12:50 Vui sống mỗi ngày
 
-	12:00 Phim truyện: Trở lại tuổi 20 - Tập 9
+13:45 Phim truyện
 
-	12:50 Vui sống mỗi ngày
+14:40 Giai điệu tự hào
 
-	13:45 Phim truyện: Cầu vồng tình yêu - Tập 7
+16:20 Cà phê với VTV3
 
-	14:30 Hào khí ngàn năm
+16:34 Bótay.kom
 
-	14:40 Ban nhạc Việt: Tập 2
+16:45 Mỗi ngày một niềm vui
 
-	16:50 Cẩm nang vàng cho sức khỏe
+17:00 Thông tin 260
 
-	17:00 Thông tin 260
+17:15 Phim truyện: Hạnh phúc bên nhau - Tập 9, 10
 
-	17:15 Phim truyện: Chuyện nàng Phù Dung - Tập 37, 38
+18:50 Thời tiết này đi đâu
 
-	19:00 Thời sự
+19:00 Thời sự
 
-	20:00 Phim truyện: Xin chào hạnh phúc - Tập 83
+20:00 Phim truyện: Xin chào hạnh phúc - Tập 151: Tình người (Phần 2)
 
-	20:30 Quyền lực ghế nóng
+20:30 Ai là triệu phú
 
-	21:30 Sắc màu phái đẹp: Tập 229
+21:20 Sắc màu phái đẹp: Tập 53
 
-	21:40 Phim truyện: Ghét thì yêu thôi - Tập 25
+21:30 Phim truyện: Mộng phù hoa - Tập 18
 
-	22:30 Cư dân thông thái
+22:20 Quà tặng cuộc sống: Về chung một nhà
 
-	22:40 Quà tặng cuộc sống: Bức điện gửi nhầm địa chỉ
+22:30 Phim truyện: Chuyện con gái nhà họ Mộc - Tập 11
 
-	22:50 Phim truyện: Khúc ca hạnh phúc - Tập 13
+23:20 Chuyện đêm muộn: Sống thêm lần nữa
 
-	23:40 Chuyện đêm muộn
+###############################################################
+Ngày mai
+
+00:00 Tiếp tục chương trình
+
+00:20 Phim truyện: Đơn giản tôi là Maria - Tập 50
+
+01:00 Khám phá thế giới: Vườn quốc gia nước Mỹ - Tập 25
+
+01:20 Vui - khỏe - có ích
+
+02:10 Chuyện đêm muộn: Tham vọng của nghệ sĩ
+
+03:00 Phim truyện: Chuyện nàng Phù Dung - Tập 35, 36
+
+04:30 Vua đầu bếp
+
+05:10 Vì bạn xứng đáng
+
+06:00 Nhịp đập 360 độ thể thao
+
+06:45 S- Việt Nam
+
+07:00 Cà phê sáng
+
+08:00 Xả xì chét: Rất trùng hợp
+
+08:10 Trái tim cho em
+
+08:20 VTV kết nối
+
+08:30 Khám phá thế giới: Vườn quốc gia nước Mỹ - Tập 25
+
+09:00 Phim truyện: Cuộc chiến gia tộc - Tập 261
+
+09:20 Ai là triệu phú
+
+10:10 Vì bạn xứng đáng
+
+11:00 Thông tin 260
+
+11:10 Sắc màu phái đẹp: Tập 228
+
+11:20 Phụ nữ là số 1: Tiếng hét của vợ
+
+11:30 Phim truyện: Cuộc chiến gia tộc - Tập 262
+
+12:00 Phim truyện: Trở lại tuổi 20 - Tập 9
+
+12:50 Vui sống mỗi ngày
+
+13:45 Phim truyện: Cầu vồng tình yêu - Tập 7
+
+14:30 Hào khí ngàn năm
+
+14:40 Ban nhạc Việt: Tập 2
+
+16:50 Cẩm nang vàng cho sức khỏe
+
+17:00 Thông tin 260
+
+17:15 Phim truyện: Chuyện nàng Phù Dung - Tập 37, 38
+
+19:00 Thời sự
+
+20:00 Phim truyện: Xin chào hạnh phúc - Tập 83
+
+20:30 Quyền lực ghế nóng
+
+21:30 Sắc màu phái đẹp: Tập 229
+
+21:40 Phim truyện: Ghét thì yêu thôi - Tập 25
+
+22:30 Cư dân thông thái
+
+22:40 Quà tặng cuộc sống: Bức điện gửi nhầm địa chỉ
+
+22:50 Phim truyện: Khúc ca hạnh phúc - Tập 13
+
+23:40 Chuyện đêm muộn
