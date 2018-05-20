@@ -12,7 +12,7 @@
 
 08:45 Toàn dân phòng cháy chữa cháy
 
-09:15 Phóng sự
+09:15 Bật mí phim truyền hình
 
 09:40 Chương trình VHNTTG
 
@@ -20,13 +20,13 @@
 
 10:35 Chương trình tổng hợp
 
-10:55 Thông tin y tế
+10:55 Thông tin công cộng
 
 11:10 Dự báo thời tiết
 
 11:15 Phim truyện Việt Nam
 
-12:00 Phóng sự tài liệu
+12:00 Phóng sự Liên hoan phim
 
 12:30 Chương trình ca nhạc
 
@@ -38,13 +38,9 @@
 
 15:10 Bản tin thời sự tổng hợp
 
-15:35 Khoa học công nghệ
-
-16:05 Phóng sự Liên hoan phim
-
 17:05 An toàn giao thông TP
 
-17:35 Phóng sự liên hoan phim
+17:35 Thông tin y tế
 
 17:50 HTV giới thiệu
 
@@ -53,8 +49,6 @@
 18:30 Món ngon quê Việt
 
 18:55 Dự báo thời tiết
-
-19:00 Chuyện nghề
 
 19:30 Chương trình VHNTTG
 
@@ -68,6 +62,6 @@
 
 22:05 Chương trình văn nghệ
 
-23:00 Thế giới 24G
+23:00 Phóng sự Liên hoan phim
 
 23:30 Chương trình VHNTTG
