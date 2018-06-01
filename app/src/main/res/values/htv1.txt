@@ -1,16 +1,10 @@
-05:32 Phim Tài Liệu
+06:05 Chương trình 60 giây
 
-06:00 Thời sự HTV sáng
+06:35 Món ngon quê Việt
 
-06:30 Chương trình 60 giây sáng
+07:00 Bản tin buổi sáng
 
-07:00 Khám phá 360
-
-07:03 Phóng sự
-
-07:13 Khám phá
-
-07:17 Phim tài liệu
+07:15 An toàn giao thông TP
 
 07:45 Chương trình 60 giây
 
@@ -18,7 +12,7 @@
 
 08:45 Phóng sự Liên hoan phim
 
-09:15 Phóng sự
+09:15 Phóng sự liên hoan phim - Kết nối người và việc
 
 09:40 Chương trình VHNTTG
 
@@ -26,7 +20,7 @@
 
 10:35 Chương trình tổng hợp
 
-10:55 Thông tin công cộng
+10:55 Chuyện nghề
 
 11:10 Dự báo thời tiết
 
@@ -48,9 +42,13 @@
 
 16:05 Phóng sự Liên hoan phim
 
+16:25 Chương trình tổng hợp
+
+16:50 HTV giới thiệu
+
 17:05 An toàn giao thông TP
 
-17:35 Phóng sự liên hoan phim
+17:35 Kết nối người và việc
 
 18:00 Chương trình thiếu nhi
 
@@ -58,13 +56,15 @@
 
 18:55 Dự báo thời tiết
 
+19:00 Thông tin y tế
+
 19:30 Chương trình VHNTTG
 
 20:00 Phóng sự tài liệu
 
 20:30 Chương trình ca nhạc
 
-21:00 Phóng sự
+21:00 Doanh nhân và cuộc sống
 
 21:30 Chương trình thời sự
 
