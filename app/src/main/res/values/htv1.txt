@@ -1,8 +1,12 @@
 00:00 Tiếp tục chương trình
 
-00:30 World Cup : Colombia -Anh
+00:30 An toàn giao thông TP
 
-04:00 Tiếp tục chương trình
+02:15 Bản tin thời sự tổng hợp
+
+03:40 Chuyện nghề
+
+05:20 Món ngon quê Việt
 
 06:05 Chương trình 60 giây
 
@@ -26,6 +30,8 @@
 
 10:35 Chương trình tổng hợp
 
+10:55 Thông tin y tế
+
 11:10 Dự báo thời tiết
 
 11:15 Phim truyện Việt Nam
@@ -40,15 +46,17 @@
 
 14:15 Chương trình văn nghệ
 
-15:10 Phóng sự
+15:10 Bật mí phim truyền hình
 
 15:35 Khoa học công nghệ
 
-16:05 Phóng sự Liên hoan phim
+16:05 Khoảnh khắc đẹp
+
+16:40 Chương trình tổng hợp
 
 17:05 An toàn giao thông TP
 
-17:35 Kết nối người và việc
+17:35 Đồng hành Bạn có thực tài
 
 18:00 Chương trình thiếu nhi
 
@@ -56,11 +64,9 @@
 
 18:55 Dự báo thời tiết
 
-19:00 Thông tin y tế
-
 19:30 Chương trình VHNTTG
 
-20:00 Phóng sự tài liệu
+20:00 Toàn dân phòng cháy chữa cháy
 
 20:30 Chương trình ca nhạc
 
@@ -70,6 +76,6 @@
 
 22:05 Chương trình văn nghệ
 
-23:00 Thế giới 24G
+23:00 Đồng hành Bạn có thực tài
 
 23:30 Chương trình VHNTTG
