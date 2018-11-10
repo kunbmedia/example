@@ -16,14 +16,14 @@
       "startapp" : "202522987",
       "unity" : ""
     },
-    "numClick" : 1,
+    "numClick" : 2,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
-      "banner" : 3,
+      "banner" : 2,
       "popup" : {
-        "changenet" : 3,
-        "click" : 3,
+        "changenet" : 2,
+        "click" : 2,
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : false,
@@ -38,7 +38,7 @@
   },
   "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
   "enableApi" : true,
-  "filterCountry" : "^(AA)$",
+  "filterCountry" : "^(VN)$",
   "info" : "fdfdfdfdfd",
   "keyData" : "12322789ghhjkabc",
   "linkTivi" : "http://tiviviet.crackgame.net/bdtvios/datanew2.php?v=9",
