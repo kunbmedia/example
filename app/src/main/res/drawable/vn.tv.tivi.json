@@ -1,6 +1,6 @@
 {
   "Ads" : {
-    "delay" : 2,
+    "delay" : 7,
     "forcepopup" : true,
     "ids" : {
       "admob" : {
