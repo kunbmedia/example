@@ -16,7 +16,7 @@
       "startapp" : "205016631",
       "unity" : ""
     },
-    "numClick" : 1,
+    "numClick" : 3,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
@@ -37,12 +37,12 @@
     "link" : "https://raw.githubusercontent.com/kunbmedia/example/dev/app/src/main/res/tiviplay/22.apk"
   },
   "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
-  "enableApi" : false,
-  "filterCountry" : "^(AA)$",
-  "info" : "<b>GIỚI THIỆU:</b> <p>  Tivi Play là chương trình xem tivi online, bóng đá và các kênh giải trí khác.</p><p>  Với Tivi Play bạn không cần phải sở hữu tivi cũng như đăng kí các gói xem bóng đá, các gói truyền hình cap mà bạn đã có trong tay 200 kênh truyền hình trong nước cũng như ngoài nước.</p><p>  Đồng thời bạn có thể xem các trận bóng đá gần nhất (live) hoặc xem các video hightlight đã qua, chúng được cập nhật liên tục theo giờ.</p><p>  Bạn cũng có thể xem lịch bóng đá với ứng dụng này. Thật tiện dụng phải không. Chúc bạn có những phút giây vui vẻ với ứng dụng.</p>",
+  "enableApi" : true,
+  "filterCountry" : "^(VN|ID|JP|KR|HK)$",
+  "info" : "fdfdfdfdfd",
   "keyData" : "12322789ghhjkabc",
   "linkTivi" : "http://tiviviet.crackgame.net/bdtvios/datanew2.php?v=9",
-  "linkBongda" : "http://tiviviet.crackgame.net/bdtvios/tructiepvn.php",
-  "linkHL" : "http://apps.crackgame.net/bongda/datavideo.php",
-  "timeAfterBuild" : 100000
+  "linkBongda" : "https://vtv.vn/truyen-hinh-truc-tuyen/vtv1.htm,https://vtv.vn/truyen-hinh-truc-tuyen/vtv2.htm,https://vtv.vn/truyen-hinh-truc-tuyen/vtv3.htm,https://vtv.vn/truyen-hinh-truc-tuyen/vtv4.htm,https://vtv.vn/truyen-hinh-truc-tuyen/vtv5.htm,https://vtv.vn/truyen-hinh-truc-tuyen/vtv6.htm,https://vtv.vn/truyen-hinh-truc-tuyen/vtv7.htm,https://vtv.vn/truyen-hinh-truc-tuyen/vtv8.htm,https://vtv.vn/truyen-hinh-truc-tuyen/vtv9.htm,http://hplus.com.vn/xem-kenh-thvl1-truyen-hinh-vinh-long-1-889.html,http://hplus.com.vn/xem-kenh-thvl2-truyen-hinh-vinh-long-2-52406.html,http://hplus.com.vn/xem-kenh-todaytv-vtc7-2060.html,http://hplus.com.vn/xem-kenh-htv1-2631.html,http://hplus.com.vn/xem-kenh-htv2-hd-2669.html,http://hplus.com.vn/xem-kenh-htv3-2535.html,http://hplus.com.vn/xem-kenh-htv7-hd-256.html,http://hplus.com.vn/xem-kenh-htv9-hd-2667.html,https://www.vtc.gov.vn/kenh/vtc1,https://www.vtc.gov.vn/kenh/vtc2,https://www.vtc.gov.vn/kenh/vtc3",
+  "linkHL" : "https://m.vidio.com/live/665-rcti-tv-stream,https://m.vidio.com/live/870-mnc-tv-stream,https://m.vidio.com/live/204-sctv-tv-stream,https://m.vidio.com/live/734-trans7-tv-stream,https://m.vidio.com/live/733-trans-tv-stream,https://m.vidio.com/live/205-indosiar-tv-stream,https://m.vidio.com/live/778-global-tv-stream,https://m.vidio.com/live/5409-inews-tv-stream,https://m.vidio.com/live/782-antv-tv-stream,https://m.vidio.com/live/783-tvone-tv-stream,http://m.metrotvnews.com/streaming/,https://www.kompas.tv/live,https://m.vidio.com/live/1561-rtv-stream,https://m.vidio.com/live/206-ochannel-tv-stream,https://m.vidio.com/live/5415-jaktv-tv-stream,http://tvri.go.id,https://tve.kemdikbud.go.id/live-tv/",
+  "timeAfterBuild" : 999999
 }
