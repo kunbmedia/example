@@ -20,10 +20,10 @@
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
-      "banner" : 3,
+      "banner" : 2,
       "popup" : {
         "changenet" : 3,
-        "click" : 3,
+        "click" : 2,
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : false,
