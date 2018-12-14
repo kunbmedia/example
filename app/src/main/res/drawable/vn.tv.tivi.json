@@ -4,9 +4,9 @@
     "forcepopup" : true,
     "ids" : {
       "admob" : {
-        "banner" : "ca-app-pub-3940256099942544/6300978111",
+        "banner" : "ca-app-pub-5326883010065294/7919567486",
         "native" : "",
-        "popup" : "ca-app-pub-3940256099942544/1033173712"
+        "popup" : "ca-app-pub-5326883010065294/9829924267"
       },
       "facebook" : {
         "banner" : "1773091219651105_1773093086317585",
@@ -20,10 +20,10 @@
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
-      "banner" : 3,
+      "banner" : 1,
       "popup" : {
-        "changenet" : 0,
-        "click" : 3,
+        "changenet" : 1,
+        "click" : 1,
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : false,
