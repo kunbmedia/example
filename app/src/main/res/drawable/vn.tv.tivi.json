@@ -4,9 +4,9 @@
     "forcepopup" : true,
     "ids" : {
       "admob" : {
-        "banner" : "",
+        "banner" : "ca-app-pub-3940256099942544/6300978111",
         "native" : "",
-        "popup" : ""
+        "popup" : "ca-app-pub-3940256099942544/1033173712"
       },
       "facebook" : {
         "banner" : "1773091219651105_1773093086317585",
