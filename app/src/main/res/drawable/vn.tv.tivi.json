@@ -16,18 +16,18 @@
       "startapp" : "202522987",
       "unity" : ""
     },
-    "numClick" : 5,
+    "numClick" : 1,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
-      "banner" : 3,
+      "banner" : 1,
       "popup" : {
-        "changenet" : 0,
-        "click" : 3,
+        "changenet" : 1,
+        "click" : 1,
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : false,
-        "openapp" : 0
+        "openapp" : 1
       }
     }
   },
