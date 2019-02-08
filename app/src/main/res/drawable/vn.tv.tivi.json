@@ -22,12 +22,12 @@
     "types" : {
       "banner" : 1,
       "popup" : {
-        "changenet" : 1,
+        "changenet" : 0,
         "click" : 1,
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : false,
-        "openapp" : 1
+        "openapp" : 0
       }
     }
   },
