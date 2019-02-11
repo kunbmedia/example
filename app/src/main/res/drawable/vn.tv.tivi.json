@@ -13,7 +13,7 @@
         "native" : "1773091219651105_1773093532984207",
         "popup" : "1773091219651105_1773093409650886"
       },
-      "startapp" : "202522987",
+      "startapp" : "201187744",
       "unity" : ""
     },
     "numClick" : 2,
@@ -22,12 +22,12 @@
     "types" : {
       "banner" : 1,
       "popup" : {
-        "changenet" : 0,
+        "changenet" : 2,
         "click" : 1,
         "closeapp" : 0,
         "lockscreen" : 0,
         "splash" : false,
-        "openapp" : 0
+        "openapp" : 2
       }
     }
   },
